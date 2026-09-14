@@ -187,3 +187,4 @@ demo.launch(
 
 
 ### RESULT:
+Thus, a Chat with LLM prototype application was successfully developed using the Gradio Blocks UI framework and a Hugging Face Large Language Model. The application accepts user prompts and displays the generated responses interactively
